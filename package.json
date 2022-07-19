@@ -1,0 +1,16 @@
+{
+  "name": "aliptic",
+  "version": "1.0.0",
+  "description": "chat made with nodejs and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Alexis Saviot",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.5.1"
+  }
+}
